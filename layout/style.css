@@ -1,0 +1,64 @@
+#pagecontainer {
+	margin-top: 60px;
+}
+
+#pagecontainer > h2 {
+	font-variant: small-caps;
+}
+
+#footer {
+	border-top: 2px solid #464646;
+	background-color: #212121;
+	color: #fff;
+	margin-top: 30px;
+	padding: 5px 0;
+	text-align: center;
+}
+
+#footer a {
+	color: #fff;
+	font-weight: bold;
+}
+
+body {
+	font-family: Ubuntu, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	color: black;
+}
+
+.valign-bottom td {
+	vertical-align: bottom !important;
+}
+
+.narrowbar {
+	padding: 8px 3px !important;
+	width: 30px !important;
+}
+
+.title {
+	font-family: Ubuntu, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.vert_bar {
+	display: block;
+	vertical-align: bottom;
+	margin: 0 auto !important;
+}
+.horz_bar {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 auto !important;
+}
+.bar_blue { background-color: #294BFF; }
+.bar_green { background-color: #43FC2C; }
+.bar_red { background-color: #FF3434; }
+.bar_yellow { background-color: #FFFD36; }
+
+.asmall {
+	font-family: Ubuntu, Arial, sans-serif;
+	font-size: 10px;
+	color: black;
+	text-align: center;
+}
